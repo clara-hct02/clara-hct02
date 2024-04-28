@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Clara</h1>
+<h1 align="center">Hi there, I'm Clara</h1>
 <h3 align="center">Computer science and math student from Canada</h3>
 
 <h3 align="left">Connect with me:</h3>

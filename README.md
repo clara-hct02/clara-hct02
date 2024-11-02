@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">computer science and math student from Canada</h3>
 
-- 🔭 I’m currently working on [https://github.com/clara-hct02/tos-simulator](https://github.com/clara-hct02/tos-simulator)
+- 🔭 I’m currently working on [Town of Salem 2 Simulator](https://github.com/clara-hct02/tos-simulator)
 
 - 🌱 I’m currently learning **SQL, Docker, Node.js, React.js**
 

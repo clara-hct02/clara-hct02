@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
-<h3 align="center">computer science and math student from Canada</h3>
+<h3 align="center">Computer science and math student from Canada</h3>
 
 - 🔭 I’m currently working on [Town of Salem 2 Simulator](https://github.com/clara-hct02/tos-simulator)
 

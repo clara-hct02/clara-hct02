@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Town of Salem 2 Simulator](https://github.com/clara-hct02/tos-simulator)
 
-- 🌱 I’m currently learning **SQL, Docker, Node.js, React.js**
+- 🌱 I’m currently learning **TypeScript, Docker, Node.js and React.js**
 
-- ⚡ Fun fact **I enjoy social deduction games like Town of Salem!**
+- ⚡ Fun fact **I am fluent in English, French and Mandarin. In my free time I enjoy playing social deduction games like Town of Salem and singing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
